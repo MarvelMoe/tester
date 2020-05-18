@@ -8,7 +8,7 @@ Plugin Name: Tester
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
 Description: This is not just a plugin, it is though.
 Author: Moe
-Version: 1.0.0
+Version: 1.1.0
 Author URI: http://ma.tt/
 */
 
