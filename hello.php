@@ -6,7 +6,7 @@
 /*
 Plugin Name: Tester
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+Description: This is not just a plugin, it is though.
 Author: Moe
 Version: 1.0.0
 Author URI: http://ma.tt/
@@ -30,7 +30,8 @@ if( ! class_exists( 'Smashing_Updater' ) ){
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Tester */
-	$lyrics = "Hello, Dolly
+
+$lyrics = "Hello, Dude
 Well, hello, Dolly
 It's so nice to have you back where you belong
 You're lookin' swell, Dolly
